@@ -1,2 +1,2 @@
 # SimpleAuth
-- Easy & secured authentication system created in PHP.
+- Easy & secured authentication system created in raw PHP.
